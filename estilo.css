@@ -1,0 +1,26 @@
+table tr td{
+	border: 1px solid black; /* borda da tabela */
+}
+
+table{
+	width: 80%; /* largura da tabela */
+	margin: auto; /* alinhamento */
+}
+
+button{
+	color: #191970; /* cor da fonte */
+	background-color: #87CEEB; /* cor de fundo do botão */
+	font-size: 22px; /* tamanho da fonte do botão */ 
+	border-radius: 20px 50px 5px 90px; /*arredonda os cantos -SENTIDO HORÁRIO-*/
+	margin-top: 17px; /* distância do botão e a borda em cima */
+	margin-bottom: 17px; /* mesma coisa só que embaixo */
+	margin-left: 10px; /* entre os botões a esquerda */
+	margin-right: 25px; /* mesma coisa só que a direita, se for diferente ele empurra o maior */
+
+	/* margin: 25px 25px 10px 10px; --> pode substituir as linhas acima, em ordem */
+
+	padding-top: 10px; /* margem interna em cima*/
+	padding-bottom: 10px; /*margem interna embaixo */
+	padding-left: 10px; /*margem interna a esquerda */
+	padding-right: 10px; /*margem interna a direita */
+}
