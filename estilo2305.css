@@ -1,0 +1,53 @@
+p{
+	margin-left:105px ;
+	color: #00008B;
+}
+
+h1{
+	color:#191970;
+	font-size: 38px;
+	font-family: "Electrolize", sans-serif;
+}
+
+td{
+	width: 25%;
+}
+
+table{
+	width: 86%;
+	margin: auto;
+}
+
+.voltar{
+	border-radius: 22px;
+	font-size: 21px;
+	background-color: #DCDCDC;
+	color: #191970;
+	font-family: "Electrolize", sans-serif;
+}
+
+.rodape{
+	width: 100%;
+	background-color: #FFFFFF;
+	height: 114px;
+}
+
+h2{
+	text-align: center;
+	color: #191970;
+	font-family: "Electrolize", sans-serif;
+}
+
+.publicas{
+	text-align: right;
+
+}
+
+.privadas{
+	text-align: left;
+	padding-left: 49px;
+}
+
+.info{
+	width: 49px;
+}
